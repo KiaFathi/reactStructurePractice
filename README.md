@@ -1,0 +1,4 @@
+reactStructurePractice
+======================
+
+structure React Application
